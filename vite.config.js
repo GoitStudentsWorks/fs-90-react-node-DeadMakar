@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/PowerPulseTeamPoject/',
+  base: '/fs-90-react-node-DeadMakar/',
 });
