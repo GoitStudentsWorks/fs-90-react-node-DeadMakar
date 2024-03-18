@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/PowerPulseTeamPoject">
+        <BrowserRouter basename="/fs-90-react-node-DeadMakar">
           <App />
         </BrowserRouter>
       </PersistGate>
